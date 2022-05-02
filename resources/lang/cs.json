@@ -1,0 +1,4 @@
+{
+    "The :attribute must be at least :length characters.": ":attribute musí být větší než :length znaků.",
+    "The provided password does not match your current password.": "zadané heslo neodpovídá Vašemu současnému heslu."
+}
